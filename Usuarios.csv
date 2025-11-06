@@ -1,0 +1,21 @@
+﻿usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U001,Ana Molina,25,F,ana.molina@mail.com,2000-05-05
+U002,Luis Suárez,32,M,luis.suarez@mail.com,1993-12-13
+U003,María Ortiz,23,M,maria.ortiz@mail.com,2002-01-16
+U004,Carlos Cruz,23,M,carlos.cruz@mail.com,2002-10-15
+U005,Sofía Pérez,30,F,sofia.perez@mail.com,1995-04-23
+U006,Juan Jiménez,46,M,juan.jimenez@mail.com,1979-03-23
+U007,Camila Moreno,45,M,camila.moreno@mail.com,1980-04-20
+U008,Daniel Rojas,39,F,daniel.rojas@mail.com,1986-02-19
+U009,Valentina Castro,40,F,valentina.castro@mail.com,1985-01-23
+U010,Miguel Vargas,47,F,miguel.vargas@mail.com,1978-02-10
+U011,Laura Flores,36,F,laura.flores@mail.com,1989-10-23
+U012,Andrés Torres,30,M,andres.torres@mail.com,1995-12-05
+U013,Paula Ramírez,32,M,paula.ramirez@mail.com,1993-04-30
+U014,Diego Sánchez,24,F,diego.sanchez@mail.com,2001-11-22
+U015,Natalia Hernández,41,F,natalia.hernandez@mail.com,1984-04-17
+U016,Felipe López,35,M,felipe.lopez@mail.com,1990-11-08
+U017,Diana García,28,M,diana.garcia@mail.com,1997-03-25
+U018,Julián Martínez,47,M,julian.martinez@mail.com,1978-12-17
+U019,Luisa Rodríguez,38,M,luisa.rodriguez@mail.com,1987-04-28
+U020,Santiago Gómez,20,F,santiago.gomez@mail.com,2005-05-18

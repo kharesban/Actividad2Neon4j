@@ -1,0 +1,21 @@
+﻿cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+C001,Introducción a Python,Curso práctico y orientado a proyectos.,Básico,2019,3.87
+C002,Estadística con R,Curso práctico y orientado a proyectos.,Avanzado,2020,3.88
+C003,Algoritmos y Estructuras,Curso práctico y orientado a proyectos.,Básico,2022,3.87
+C004,Bases de Datos SQL,Curso práctico y orientado a proyectos.,Intermedio,2021,3.89
+C005,Desarrollo Web con Django,Curso práctico y orientado a proyectos.,Intermedio,2024,3.66
+C006,Machine Learning,Curso práctico y orientado a proyectos.,Intermedio,2019,3.66
+C007,Ciencia de Datos,Curso práctico y orientado a proyectos.,Avanzado,2018,3.8
+C008,Visualización de Datos,Curso práctico y orientado a proyectos.,Intermedio,2024,3.19
+C009,Redes Neuronales,Curso práctico y orientado a proyectos.,Básico,2021,3.72
+C010,Análisis de Textos,Curso práctico y orientado a proyectos.,Básico,2017,3.66
+C011,Desarrollo Frontend,Curso práctico y orientado a proyectos.,Básico,2019,3.56
+C012,Programación en Java,Curso práctico y orientado a proyectos.,Avanzado,2024,3.82
+C013,Sistemas Operativos,Curso práctico y orientado a proyectos.,Intermedio,2020,3.94
+C014,Arquitectura de Computadores,Curso práctico y orientado a proyectos.,Básico,2025,3.63
+C015,Patrones de Diseño,Curso práctico y orientado a proyectos.,Básico,2025,3.69
+C016,Compiladores,Curso práctico y orientado a proyectos.,Intermedio,2020,3.53
+C017,Redes de Computadores,Curso práctico y orientado a proyectos.,Avanzado,2017,3.83
+C018,DevOps Básico,Curso práctico y orientado a proyectos.,Avanzado,2024,3.48
+C019,Pruebas de Software,Curso práctico y orientado a proyectos.,Avanzado,2019,3.71
+C020,Seguridad Informática,Curso práctico y orientado a proyectos.,Básico,2021,3.82
