@@ -1,8 +1,8 @@
 ﻿codigo,nombre,descripcion
 CAT01,Programación,Materiales sobre programación.
-CAT04,Desarrollo Web,Materiales sobre desarrollo web.
-CAT05,Backend,Materiales sobre backend.
-CAT07,Bases de Datos,Materiales sobre bases de datos.
-CAT14,IA Generativa,Materiales sobre ia generativa.
-CAT15,Redes de Computadores,Materiales sobre redes de computadores.
-CAT20,Videojuegos,Materiales sobre videojuegos.
+CAT02,Desarrollo Web,Materiales sobre desarrollo web.
+CAT03,Backend,Materiales sobre backend.
+CAT04,Bases de Datos,Materiales sobre bases de datos.
+CAT05,IA Generativa,Materiales sobre ia generativa.
+CAT06,Redes de Computadores,Materiales sobre redes de computadores.
+CAT07,Videojuegos,Materiales sobre videojuegos.
